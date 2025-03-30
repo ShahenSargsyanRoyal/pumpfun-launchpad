@@ -3,7 +3,7 @@
 
 PumpFun Launchpad is a decentralized launchpad that enables seamless token launches on pump.fun. Built with Web3, TypeScript, React, Node.js, and MongoDB, it provides an easy-to-use platform for creating and managing token launches with advanced features like sniper, bundle and automated token distribution.
 
-![PumpFun Launchpad](https://github.com/ShahenSargsyanRoyal/pumpfun-launchpad/launchpad/1.png)  
+![Launchpad Screenshot](launchpad/1.png)
 
 ## 🌟 Features  
 
